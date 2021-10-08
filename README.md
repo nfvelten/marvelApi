@@ -33,7 +33,7 @@ Seu projeto será avaliado de acordo com a qualidade do seu código e sua organi
 2. Inicio o git, e subo para o GitHub.
 3. Instalo as ferramentas, MaterialUi, Axios, e CryptoJs.
 4. Consigo uma key da API Marvel.
-5. Ocultei as keys do codigo base, usando um arquivo .env.
+5. Ocultei as keys do codigo base, usando uma variavel de ambiente.
 6. Para poder acessar as keys no codigo preciso nomea-las com NEXT_PUBLIC_
 7. Depois uso o getStaticProps do Next para poder pegar as informaçoes da key de modo estatico.
 8. Crio uma timestamp com new Date.
