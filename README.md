@@ -1,10 +1,3 @@
-Getting Started
-First, run the development server:
-
-npm run dev
-# or
-yarn dev
-
 # Pedido Pago Challenge
 Created: 2021-10-05 07:39
 
@@ -50,4 +43,8 @@ Seu projeto será avaliado de acordo com a qualidade do seu código e sua organi
 12. Utilizo o useState do React para poder armazenar as informaçoes da API em um array.
 13. A partir desse momento comecei a trabalhar no layout da pagina ja que tinha excedido o limite de requerimentos para a API.
 14. Fiz uma landing page basica com alguns botoes do MaterialUi, cada um do botoes leva para uma pagina diferente.
-15. Faço um header comum para navegar de forma facil pelas paginas.
+15. Utilizo o AppBar do MaterialUi para fazer um header para navegaçao.
+16. Na pagina de listagem dos dados utilizo .map() para listar os dados de personagem.
+17. Um botao para cada personagem e criado, levando para a pagina individual de cada um.
+18. Adiciono um botao no final da pagina para que novos dados sejam carregados.
+19. Na pagina individual adiciono a descriçao e mais algumas informaçoes. 
